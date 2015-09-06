@@ -3,7 +3,8 @@
 <h2>Components</h2>
 * Nginx 1.9.2
 * MySQL Server 5.6
- (user: root password: password)* PHP 5.5.12
+ (user: <b>root</b> password: <b>password</b>)
+* PHP 5.5.12
 * Sendmail (fake sendmail for windows)
 Note: Sendmail is used only for development purpose in order to enable PHP mail() function under Windows.
 
