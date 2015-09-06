@@ -3,7 +3,7 @@
 <h2>Components</h2>
 * Nginx 1.9.2
 * MySQL Server 5.6
-* PHP 5.5.12
+ (user: root password: password)* PHP 5.5.12
 * Sendmail (fake sendmail for windows)
 Note: Sendmail is used only for development purpose in order to enable PHP mail() function under Windows.
 
@@ -23,7 +23,7 @@ Note: Sendmail is used only for development purpose in order to enable PHP mail(
 <h2>License</h2>
 * The Perfect Server for Windows is available for free (under the GNU GENERAL PUBLIC LICENSE Version 3)
 * Please respect each component license independently:
-* Nginx <a href="https://github.com/dayanstef/perfect-server/nginx/docs/LICENSE" target="_blank">LICENSE</a>
-* MySQL <a href="https://github.com/dayanstef/perfect-server/nginx/mysql/COPYING" target="_blank">COPYING</a>
-* PHP <a href="https://github.com/dayanstef/perfect-server/nginx/php/license.txt" target="_blank">license.txt</a>
-* Sendmail <a href="https://github.com/dayanstef/perfect-server/nginx/sendmail/license.txt" target="_blank">license.txt</a>
+* Nginx <a href="https://github.com/dayanstef/perfect-server/blob/master/nginx/docs/LICENSE" target="_blank">LICENSE</a>
+* MySQL <a href="https://github.com/dayanstef/perfect-server/blob/master/nginx/mysql/COPYING" target="_blank">COPYING</a>
+* PHP <a href="https://github.com/dayanstef/perfect-server/blob/master/nginx/php/license.txt" target="_blank">license.txt</a>
+* Sendmail <a href="https://github.com/dayanstef/perfect-server/blob/master/nginx/sendmail/license.txt" target="_blank">license.txt</a>
