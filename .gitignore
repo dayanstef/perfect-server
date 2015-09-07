@@ -1,0 +1,4 @@
+.idea/
+nginx/temp/
+nginx/logs/
+nginx/mysql/data
