@@ -2,3 +2,4 @@
 nginx/temp/
 nginx/logs/
 nginx/mysql/data
+nginx/conf/domains.d/
